@@ -46,17 +46,18 @@
   -[ ] Enemy AI  
   -[ ] Data storage  
     -[ ] serilization / deserilization (storing and retreiving save data)  
-      -[ ] local storage / cookies / file storage (save/load)
-      -[ ] http storage (backend)
-  -[ ] Game event system
-    -[ ] create events that other entitites can subscribe to
-  -[ ] Advanced asset management
-    -[ ] loading, creating and unloading of assets
-  -[ ] A player inventory system
-  -[ ] Character system
-    -[ ] player self
-      -[ ] singular
-      -[ ] multiple
-        -[ ] switch character to self
-    -[ ] friendlies (npc)
-    -[ ] enemies
+      -[ ] local storage / cookies / file storage (save/load)  
+      -[ ] http storage (backend)  
+  -[ ] Game event system  
+    -[ ] create events that other entitites can subscribe to  
+  -[ ] Advanced asset management  
+    -[ ] loading, creating and unloading of assets  
+  -[ ] A player inventory system  
+  -[ ] Character system  
+    -[ ] player self  
+      -[ ] singular  
+      -[ ] multiple  
+        -[ ] switch character to self  
+    -[ ] friendlies (npc)  
+    -[ ] enemies  
+  
